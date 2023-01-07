@@ -11,19 +11,16 @@ The repository consists of 2 folders described as follows:
    This folder contains 4 jupyter notebooks, each exploring specific aspects of the the statistical methods underpinning machine learning and an images folder. 
    
    The notebooks are as follows:
-   - *ml_stats_hypothesis_practicals.ipynb*
-     
+   - *ml_stats_hypothesis_practicals.ipynb*  
         An introduction to Hypothesis Testing, a statistical method to test assumptions about populations.
 
-   - *ml_stats_parameters_practicals.ipynb*
-
+   - *ml_stats_parameters_practicals.ipynb*  
         Looking at Linear Regression and methods to fit optimum function parameters to accurately represent relationships between dependant and independant variables.
 
-   - *ml_stats_practicals_models.ipynb*
-
+   - *ml_stats_practicals_models.ipynb*  
         Introduction to mathematical models and how the real world can be represented using maths and mathematical equations. 
 
-   - *ml_stats_machinelearning.ipynb*
+   - *ml_stats_machinelearning.ipynb*  
         Introduction to the concepts f=of machine learning, neurons and the tensorflow / keras packages.
    
    The images folder contains graphics that are used in the notebooks. 
@@ -46,7 +43,8 @@ The repository consists of 2 folders described as follows:
 
     - Jupyter  
     - numpy
-    - pandas  
+    - pandas
+    - seaborn  
     - matlplotlib   
     - scipy.stats  
     - tensorflow 
